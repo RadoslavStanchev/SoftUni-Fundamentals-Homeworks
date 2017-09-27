@@ -1,0 +1,5 @@
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\07.Cake Ingredients\bin\Debug\07.Cake Ingredients.exe.config
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\07.Cake Ingredients\bin\Debug\07.Cake Ingredients.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\07.Cake Ingredients\bin\Debug\07.Cake Ingredients.pdb
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\07.Cake Ingredients\obj\Debug\07.Cake Ingredients.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\07.Cake Ingredients\obj\Debug\07.Cake Ingredients.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.csprojResolveAssemblyReference.cache
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

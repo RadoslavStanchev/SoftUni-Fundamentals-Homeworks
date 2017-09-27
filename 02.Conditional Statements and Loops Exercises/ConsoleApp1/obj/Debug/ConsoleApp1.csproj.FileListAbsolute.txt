@@ -1,0 +1,6 @@
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

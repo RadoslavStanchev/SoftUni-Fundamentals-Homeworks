@@ -1,0 +1,5 @@
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe.config
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\15.NeighbourWars\bin\Debug\15.NeighbourWars.pdb
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.exe
+E:\Visual Studio Community\Projects\Conditional Statements and Loops Exercises\15.NeighbourWars\obj\Debug\15.NeighbourWars.pdb
