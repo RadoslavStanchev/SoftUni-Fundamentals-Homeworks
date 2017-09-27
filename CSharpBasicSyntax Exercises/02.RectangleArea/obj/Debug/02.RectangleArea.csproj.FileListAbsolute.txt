@@ -1,0 +1,5 @@
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\02.RectangleArea\bin\Debug\02.RectangleArea.exe.config
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\02.RectangleArea\bin\Debug\02.RectangleArea.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\02.RectangleArea\bin\Debug\02.RectangleArea.pdb
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\02.RectangleArea\obj\Debug\02.RectangleArea.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\02.RectangleArea\obj\Debug\02.RectangleArea.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe.config
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\04.BeverageLabels\bin\Debug\04.BeverageLabels.pdb
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.csprojResolveAssemblyReference.cache
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\04.BeverageLabels\obj\Debug\04.BeverageLabels.pdb

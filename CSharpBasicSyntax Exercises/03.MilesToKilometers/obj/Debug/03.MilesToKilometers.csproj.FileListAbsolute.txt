@@ -1,0 +1,5 @@
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe.config
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\03.MilesToKilometers\bin\Debug\03.MilesToKilometers.pdb
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\03.MilesToKilometers\obj\Debug\03.MilesToKilometers.pdb

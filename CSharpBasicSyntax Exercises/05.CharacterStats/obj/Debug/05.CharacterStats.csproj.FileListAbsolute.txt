@@ -1,0 +1,6 @@
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.csprojResolveAssemblyReference.cache
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe.config
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\05.CharacterStats\bin\Debug\05.CharacterStats.pdb
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.exe
+E:\Visual Studio Community\Projects\CSharpBasicSyntax Exercises\05.CharacterStats\obj\Debug\05.CharacterStats.pdb
