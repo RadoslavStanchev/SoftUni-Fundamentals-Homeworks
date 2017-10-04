@@ -1,0 +1,6 @@
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\09.ReverseCharacters\bin\Debug\09.ReverseCharacters.exe.config
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\09.ReverseCharacters\bin\Debug\09.ReverseCharacters.exe
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\09.ReverseCharacters\bin\Debug\09.ReverseCharacters.pdb
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\09.ReverseCharacters\obj\Debug\09.ReverseCharacters.csprojResolveAssemblyReference.cache
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\09.ReverseCharacters\obj\Debug\09.ReverseCharacters.exe
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\09.ReverseCharacters\obj\Debug\09.ReverseCharacters.pdb

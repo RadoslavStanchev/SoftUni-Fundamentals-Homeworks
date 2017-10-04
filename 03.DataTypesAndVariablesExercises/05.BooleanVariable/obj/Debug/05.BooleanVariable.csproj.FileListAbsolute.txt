@@ -1,0 +1,5 @@
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

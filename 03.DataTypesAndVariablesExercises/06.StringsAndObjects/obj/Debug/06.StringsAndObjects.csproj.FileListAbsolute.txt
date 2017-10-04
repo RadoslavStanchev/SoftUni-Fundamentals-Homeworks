@@ -1,0 +1,6 @@
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
+e:\visual studio community\Projects\DataTypesAndVariablesExercises\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache

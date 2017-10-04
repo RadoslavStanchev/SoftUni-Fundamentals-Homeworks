@@ -1,0 +1,6 @@
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe.config
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.pdb
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.exe
+E:\Visual Studio Community\Projects\DataTypesAndVariablesExercises\04.VariableInHexadecimalFormat\obj\Debug\04.VariableInHexadecimalFormat.pdb
